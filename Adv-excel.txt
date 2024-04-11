@@ -1,0 +1,16 @@
+• Excel is a calculation / DBMS based software.
+• Excel was launched by microsoft company in the year 1987.
+• Extension while saving file is .xlsx
+• A collection of sheets in excel is known as a workbook.
+• Rows are horizontal (shortcut = ctrl + down arrow ) to select the full row of a table.
+• Columns are vertical ( shortcut = ctrl + right arrow ) to select the full column 
+• Intersection of rows and columns is called cell.
+• Multiple selection of cells is called a cell range.
+• Cell on which work is performed is called as active cell.
+• Name box at the left upper corner denotes the address of the active cell.
+• Shift + F11 new sheet shortcut.
+• Ctrl + N new blank excel workbook.
+• Shortcut for downfill of table row is first select the row and then ctrl + d
+• Shortcut for rightfill of table column is first select and then ctrl + r
+• For sum shortcut is Alt + =
+• To check the formula used in the cell press F2 or double click on the cell.

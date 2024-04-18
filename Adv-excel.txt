@@ -14,3 +14,7 @@
 • Shortcut for rightfill of table column is first select and then ctrl + r
 • For sum shortcut is Alt + =
 • To check the formula used in the cell press F2 or double click on the cell.
+• For special pasting like transpose of table ctrl + alt + v
+• flash fill ctrl + e 
+• to apply filter select and control + shift + L. Same to remove filter
+• for applying macro shortcut is alt + F8

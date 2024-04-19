@@ -1,0 +1,38 @@
+﻿DATA FOR DASHBOARD,,,,,,,,,,
+,,,,,,,,,,
+Date,Name,Dept,Gender,Zone,Location,Salary,,,,
+02-Feb-22,Rahul,Sales,Male,East,Andheri,21000,,,,
+03-Feb-22,Anil,HR,Male,West,Malad,19000,,,,
+04-Feb-22,Ankita,Admin,Female,North,Santacruz,25000,,,,
+05-Feb-22,Amit,Sales,Male,East,Malad,30000,,,,
+06-Feb-22,Sanjay,Admin,Male,South,Vile parle,29000,,,,
+07-Feb-22,Harshad,HR,Male,East,Andheri,35000,,,,
+08-Feb-22,Priyanka,Acc,Female,South,Santacruz,25000,,,,
+09-Feb-22,Nikita,Admin,Female,North,Vile parle,15000,,,,
+10-Feb-22,Snehal,Sales,Female,West,Malad,11000,,,,
+11-Feb-22,Kavita,Acc,Female,South,Andheri,16000,,,,
+12-Feb-22,Krutika,Acc,Female,East,Santacruz,22000,,,,
+13-Feb-22,Sandeep,Sales,Male,West,Malad,27000,,,,
+14-Feb-22,Shashank,Acc,Male,East,Andheri,19000,,,,
+15-Feb-22,Rohit,Admin,Male,West,Santacruz,23000,,,,
+16-Feb-22,Nitin,Sales,Male,North,Malad,24000,,,,
+17-Feb-22,Nikhil,Operations,Male,West,Vile parle,35000,,,,
+18-Feb-22,Prachi,Executives,Female,West,Malad,25000,,,,
+19-Feb-22,Hemant,Executives,Male,South,Andheri,15000,,,,
+20-Feb-22,Vaibhav,Executives,Male,South,Santacruz,11000,,,,
+21-Feb-22,Karan,Operations,Male,West,Malad,16000,,,,
+22-Feb-22,Shruti,Executives,Female,North,Andheri,22000,,,,
+23-Feb-22,Sarita,Operations,Female,West,Santacruz,27000,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Row Labels,Sum of Salary,,Row Labels,Sum of Salary,,Row Labels,Sum of Salary,,Row Labels,Sum of Salary
+Acc,82000,,Female,38.21%,,East,127000,,Andheri,128000
+Admin,92000,,Male,61.79%,,North,86000,,Malad,152000
+Executives,73000,,Grand Total,100.00%,,South,96000,,Santacruz,133000
+HR,54000,,,,,West,183000,,Vile parle,79000
+Operations,78000,,,,,Grand Total,492000,,Grand Total,492000
+Sales,113000,,,,,,,,,
+Grand Total,492000,,,,,,,,,

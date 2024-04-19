@@ -1,3 +1,5 @@
+--> Shortcuts and Introduction of Excel 
+
 • Excel is a calculation / DBMS based software.
 • Excel was launched by microsoft company in the year 1987.
 • Extension while saving file is .xlsx
@@ -27,3 +29,4 @@
 • ctrl + a to select all
 • alt + f1 for chart insertion
 • ctrl + g (go to tab) then (special) then (blank) write anything in one blank and then ctrl + enter so all blanks fill
+

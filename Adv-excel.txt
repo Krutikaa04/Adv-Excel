@@ -18,3 +18,12 @@
 • flash fill ctrl + e 
 • to apply filter select and control + shift + L. Same to remove filter
 • for applying macro shortcut is alt + F8
+• to show current time shortcut is ctrl + shift + ;
+• for just date ctrl + ;
+• ctrl + shift + 5 for percentage
+• alt + enter for text wrap
+• alt + ; for invisible cells to highlight
+• ctrl and + to add , ctrl and - to delete row and column
+• ctrl + a to select all
+• alt + f1 for chart insertion
+• ctrl + g (go to tab) then (special) then (blank) write anything in one blank and then ctrl + enter so all blanks fill
